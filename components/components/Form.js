@@ -9,7 +9,7 @@ import { ethers } from "ethers"
 import SurgeryFactory  from '../../contracts/SurgeryFactory.sol/SurgeryFactory.json'
 
 // const uploaded = await client.add(form.description);
-// setDescriptionUrl(uploaded.path)
+// setDescriptionUrl(uploaded.path)s
 
 const Form = () => {
   const [form,setForm] = useState({
